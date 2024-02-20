@@ -3,3 +3,5 @@
 node_modules/
 .vscode/
 firebaseAPI_TEAM99.js
+# hides the api keys in the team file. wont be pushed to the main repo in github
+# leave the template file in th repo for the rest of the team to use
